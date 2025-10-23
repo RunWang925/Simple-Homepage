@@ -4,31 +4,31 @@
       "icon": "fa7-solid:blog",
       "text": "博客",
       "color": "#ffb3b3",
-      "url": "https://blog.quenan.cn/"
+      "url": "https://hexo.814925.xyz/"
     },
     {
       "icon": "mdi:github",
       "text": "Github",
       "color": "#2b2b2b",
-      "url": "https://github.com/QNquenan"
+      "url": "https://github.com/RunWang925"
     },
     {
-      "icon": "mingcute:bilibili-line",
-      "text": "哔哩哔哩",
+      "icon": "lets-icons:img-out-box-fill",
+      "text": "图床",
       "color": "#0BA7D4",
-      "url": "https://space.bilibili.com/495882959"
+      "url": "https://hexo.814925.xyz"
     },
     {
       "icon": "line-md:email",
       "text": "邮箱",
       "color": "#FDB34F",
-      "url": "mailto:qn2987271942@outlook.com"
+      "url": "mailto:1104605271@qq.com"
     },
     {
       "icon": "tabler:brand-netease-music",
       "text": "网易云",
       "color": "#DC1555",
-      "url": "https://music.163.com/#/playlist?id=2696501847&creatorId=1785635020"
+      "url": "https://music.163.com"
     }
   ]
 }

@@ -160,12 +160,17 @@
       </div>
     </div>
 
-    <div class="footer">
-      <p>
-        ©2025 Quenan |
-        <a href="https://github.com/QNquenan/Simple-Homepage">仓库</a>
-      </p>
-    </div>
+<div class="footer">
+  <p>
+    ©2025 佩奇
+    |
+    <a href="https://beian.miit.gov.cn/" target="_blank" class="beian-link">渝ICP备-2024044325号</a>
+    |
+    <a href="https://beian.mps.gov.cn/#/query/webSearch?code=50023302000356/" target="_blank" class="beian-link">渝公网安备50023302000356号</a>
+    |
+    <a href="https://hexo.814925.xyz" target="_blank" class="beian-link">关于</a>
+  </p>
+</div>
   </div>
 </template>
 

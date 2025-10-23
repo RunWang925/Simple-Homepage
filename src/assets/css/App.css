@@ -78,6 +78,24 @@ a {
     }
 }
 
+/* 备案链接样式（带悬停效果） */
+.beian-link {
+    color: var(--text-color); /* 文字颜色使用默认文字色 */
+    
+    &::before {
+        background: transparent; /* 取消默认粉色下划线 */
+    }
+    
+    &:hover {
+        color: var(--theme-color); /* 悬停时文字变为主题色（粉色） */
+        
+        &::before {
+            background: var(--theme-color); /* 底部出现主题色背景条 */
+            height: 2px; /* 高度较矮，保持简洁 */
+        }
+    }
+}
+
 .reThemeBtn {
     width: 1rem;
     height: 1rem;
